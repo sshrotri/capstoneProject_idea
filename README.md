@@ -1,1 +1,1 @@
-# capstoneProject_idea
+# Sentiment Analysis of Yelp reviews
